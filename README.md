@@ -358,6 +358,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Amazon Kinesis](https://aws.amazon.com/kinesis/) - real-time processing of streaming data at massive scale.
 * [Amazon Web Services Glue](https://aws.amazon.com/glue/) -  serverless fully managed extract, transform, and load (ETL) service
 * [Census](https://getcensus.com/) - A reverse ETL product that let you sync data from your data warehouse to SaaS Applications. No engineering favors required—just SQL.
+* [DBConvert Streams](https://streams.dbconvert.com/cdc-replication) - Self-hosted CDC replication and database migration tool with federated SQL across MySQL, PostgreSQL, files, and S3-compatible storage.
 * [Apache Chukwa](http://chukwa.apache.org/) - data collection system.
 * [Apache Flume](http://flume.apache.org/) - service to manage large amount of log data.
 * [Apache Kafka](http://kafka.apache.org/) - distributed publish-subscribe messaging system.
